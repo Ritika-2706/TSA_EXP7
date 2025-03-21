@@ -16,6 +16,7 @@ To Implementat an Auto Regressive Model using Python
 Developed by: RITIKA S
 Register no: 212221240046
 ```
+```
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
